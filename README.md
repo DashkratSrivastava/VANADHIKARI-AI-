@@ -70,3 +70,7 @@ The original district map upload was corrupt binary data. `data/geo/india_distri
 ## Data disclaimer
 
 Claim-level records shown in this demonstration are synthetic/mock data created for the hackathon. FRA implementation context and official reference material are based on Government of India Ministry of Tribal Affairs resources. Potential signals are not findings of fraud or illegality.
+
+
+## 🤝 Team Contributors
+- **Dashkrat Srivastava** ([@DashkratSrivastava](https://github.com/DashkratSrivastava))
